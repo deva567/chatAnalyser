@@ -1,3 +1,5 @@
 streamlit==0.62.1
 pillow
 matplotlib
+emoji
+wordcloud
