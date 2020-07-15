@@ -5,7 +5,6 @@ import re
 import emoji
 import regex
 import numpy as np
-import plotly.express as px
 from collections import Counter
 import matplotlib.pyplot as plt
 from os import path
